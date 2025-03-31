@@ -1,0 +1,5 @@
+/dist-newstyle/
+/.direnv/
+/.projectile-cache.eld
+/.envrc.local
+/result
